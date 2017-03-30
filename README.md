@@ -8,7 +8,7 @@ Showing how a persistent audio player in a site's main nav can work (i.e. user n
 * Clone the repo
 * From the repo's main directory, run `npm install`
 * From the repo's main directory, run `npm start`
-* Navigate to (http://localhost:8080/page1.html)[http://localhost:8080/page1.html]
+* Navigate to [http://localhost:8080/page1.html](http://localhost:8080/page1.html)
 
 ## Building
 
