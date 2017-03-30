@@ -1,0 +1,36 @@
+:root {
+  --brand-color: red;
+  --text-color: #666;
+  --text-color-inverse: #fff;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: var(--text-color);
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+}
+nav {
+  background: var(--brand-color);
+  color: var(--text-color-inverse);
+  display: block;
+  padding: 20px 10px 10px 10px;
+}
+nav a {
+  color: var(--text-color-inverse);
+}
+h1, h2, h3, p, .nav-links {
+  margin-bottom: 10px;
+}
+main {
+  padding: 30px;
+}
+main a {
+  color: var(--brand-color);
+}
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
